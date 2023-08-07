@@ -451,7 +451,7 @@ In addition to the fields you can define for a backlog item&mdash;user story, is
       [Activity](../queries/query-numeric.md) 
    :::column-end:::
    :::column span="3":::
-      The type of activity that's required to do a task.For more information about how this field is used, see [Capacity planning](../sprints/set-capacity.md). Allowed values are:  
+      The type of activity that's required to do a task. For more information about how this field is used, see [Capacity planning](../sprints/set-capacity.md). Allowed values are:  
       - **Deployment**
       - **Design**
       - **Development**
@@ -465,7 +465,7 @@ In addition to the fields you can define for a backlog item&mdash;user story, is
       [Discipline](../queries/query-numeric.md) (CMMI process)
    :::column-end:::
    :::column span="3":::
-      The type of activity that's required to do a task.For more information about how this field is used, see [Capacity planning](../sprints/set-capacity.md). Allowed values are:  
+      The type of activity that's required to do a task. For more information about how this field is used, see [Capacity planning](../sprints/set-capacity.md). Allowed values are:  
       - **Analysis**
       - **Development**
       - **Test**
