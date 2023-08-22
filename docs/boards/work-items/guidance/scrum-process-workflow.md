@@ -193,7 +193,7 @@ The :::image type="icon" source="../../backlogs/media/icon-links-tab-wi.png" bor
 
 ### Track code defects
 
-You can [create bugs from the web portal web portal, Visual Studio, or when testing with Test Manager](../../backlogs/manage-bugs.md). 
+You can [create bugs from the web portal, Visual Studio, or when testing with Test Manager](../../backlogs/manage-bugs.md). 
 
 [!INCLUDE [temp](../../includes/common-work-item-fields.md)]   
 
